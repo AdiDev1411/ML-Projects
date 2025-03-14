@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 
 
-model = load_model('\Stock_Price_Prediction\Stock Prediction Model.keras')
+model = load_model('/workspaces/ML-Projects/Stock_Price_Prediction/Stock Prediction Model.keras')
 
 
 today = date.today()
