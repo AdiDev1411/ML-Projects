@@ -86,7 +86,7 @@ y = y*scale
 
 
 
-st.subheader('Orignal Price vs Predictact Price')
+st.subheader('Orignal Price vs Predicted Price')
 fig4 = plt.figure(figsize=(10,8))
 plt.plot(y,'r', label = 'Original Price')
 plt.plot(y_predict,'b', label = 'Predicted Price')
