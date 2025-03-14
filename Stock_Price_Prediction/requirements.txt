@@ -6,3 +6,4 @@ pandas
 matplotlib
 scikit-learn
 streamlit
+h5py
